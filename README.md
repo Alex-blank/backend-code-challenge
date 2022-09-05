@@ -1,3 +1,5 @@
+Done fairly quickly with the intention of talking about improvements during the technical interview.
+
 # GAN Integrity backend code challenge
 
 The script `index.js` uses a local api to perform various operations on a set of cities. Your task is to implement an api so that the script runs successfully all the way to the end.
